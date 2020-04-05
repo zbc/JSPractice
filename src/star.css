@@ -1,0 +1,10 @@
+.star {
+	color: grey;
+	margin: 1px;
+}
+.stars {
+	height: 30px;
+	width: 300px;
+	display: block;
+	cursor: pointer;
+}

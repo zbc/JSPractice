@@ -1,2 +1,0 @@
-# JSPractice
-Created with CodeSandbox
